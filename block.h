@@ -2,7 +2,6 @@
 #define BLOCK_H
 
 #include <iostream>
-#include <string>
 #include "transaction_data.h"
 
 class Block {
